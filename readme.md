@@ -48,7 +48,7 @@ The aggregation pipeline is built using a fluent interface. Each stage is added 
 ## Usage/Examples
 
 ```javascript
-const { AggregationBuilder } = require('./AggregationBuilder');
+const { AggregationBuilder } = require("mongodb-aggregation-helpers");
 
 // Create an instance of AggregationBuilder
 const aggregationBuilder = new AggregationBuilder();
