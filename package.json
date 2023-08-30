@@ -1,0 +1,19 @@
+{
+  "name": "mongodb-aggregation-helpers",
+  "version": "1.0.0",
+  "description": "The AggregationBuilder package provides a fluent interface for building complex aggregation pipelines for MongoDB queries.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keyword": [
+    "MongoDB",
+    "complex queries",
+    "mongodb-aggregation-helpers"
+  ],
+  "author": "Gautam Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.5.0"
+  }
+}
