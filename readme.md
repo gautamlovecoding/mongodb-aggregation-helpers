@@ -1,4 +1,5 @@
 # AggregationBuilder
+![MongoDB Logo](https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg)
 
 `AggregationBuilder` is a utility class that simplifies the creation of MongoDB aggregation pipelines by providing a fluent interface for building complex aggregation stages.
 
@@ -102,7 +103,7 @@ Feel free to adjust the content of the `readme.md` file as needed. This provides
 ## Package Information
 - ***Package Name:*** mongodb-aggregation-helpers
 - ***Author Name:*** gautamtheprogrammer
-- ***GitHub URL:*** 
+- ***GitHub URL:*** https://github.com/gautamlovecoding/mongodb-aggregation-helpers
 
 
 

@@ -6,14 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gautamlovecoding/mongodb-aggregation-helpers"
+  },
   "keyword": [
     "MongoDB",
     "complex queries",
     "mongodb-aggregation-helpers"
   ],
-  "author": "Gautam Kumar",
+  "author": "gautamlovecoding",
   "license": "ISC",
-  "dependencies": {
-    "mongoose": "^7.5.0"
-  }
+  "bugs": {
+    "url": "https://github.com/gautamlovecoding/mongodb-aggregation-helpers/issues"
+  },
+  "homepage": "https://github.com/gautamlovecoding/mongodb-aggregation-helpers#readme"
+
 }
